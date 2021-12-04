@@ -1,0 +1,24 @@
+table {
+    border: 1px solid #2f0040;
+    width: 100%;
+}
+
+th, td {
+    border-bottom: 1px solid #b8a4bf;
+    padding: 5px;
+}
+
+th {
+    background-color: #634180;
+    color: white;
+    font-weight: normal;
+    font-size: 1.5em;
+}
+
+select {
+    background: #f4e8ff;
+}
+
+h1 {
+    text-align: center;
+}
